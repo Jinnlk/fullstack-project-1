@@ -1,0 +1,19 @@
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (if using Node later)
+node_modules/
+
+# Compiled files
+*.class
+*.pyc
+*.o
+
+# Miscellaneous
+.vscode/
+*.bak
+*.tmp
